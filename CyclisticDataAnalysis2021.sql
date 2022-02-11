@@ -4,6 +4,7 @@
 
 # First, I downloaded all of the 2021 data from each month as excel files
 # Note that I did my cleaning in excel, not in SQL. I then uploaded these cleaned excel files into SQL
+# The link to my cleaning process can be found here https://docs.google.com/document/d/1F0XVmMvT3hODoUDqX03FsfNEILVNqyvORMhV97ACqd4/edit?usp=sharing
 
 # In SQL, I created a dataset called cyclistic_2021_total_data
 # I then created tables for each month of the year
