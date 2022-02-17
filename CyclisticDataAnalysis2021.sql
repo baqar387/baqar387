@@ -1,6 +1,7 @@
 # This is my first data analytics project, sorry if everything is a little bit messy! 
 # The data for this project came from this link: https://divvy-tripdata.s3.amazonaws.com/index.html
 # The question I was given was "How do annual members and casual riders differ?" 
+# Here is the link to my presentation: https://docs.google.com/presentation/d/1WmVsBl_962TtffSb6Of-M_xlVgu3Lxw22DHXthq6LqA/edit?usp=sharing 
 
 # First, I downloaded all of the 2021 data from each month as excel files
 # Note that I did my cleaning in excel, not in SQL. I then uploaded these cleaned excel files into SQL
